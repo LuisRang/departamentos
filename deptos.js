@@ -2,7 +2,7 @@
 
 
 const capitales  = () =>{
-    let nombredepto = prompt ("Ingrese en nombre del departamento");
+    let nombredepto = prompt ("Ingrese en nombre del departamento que desea saber la capital");
 
 switch (nombredepto) {
         case "amazonas":
